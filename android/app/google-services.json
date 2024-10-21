@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552234095226",
+    "project_id": "health-connect-d65a5",
+    "storage_bucket": "health-connect-d65a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552234095226:android:b2573bbd8d91b07de561c3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL2Lg9isP2F8fny1sF6lo2iKx_hY1Fx3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
